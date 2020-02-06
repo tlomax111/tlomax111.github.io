@@ -6,6 +6,13 @@
 
 
 
+
+
+
+<img width="1357" alt="Aboutme" src="https://user-images.githubusercontent.com/58192900/73901773-c6a5be80-4861-11ea-9301-af9cbfbcd214.png">
+
+
+
 <img width="1087" alt="Portfoliopage" src="https://user-images.githubusercontent.com/58192900/73901738-b097fe00-4861-11ea-81c0-ed5a68a0b4f1.png">
 
 
@@ -15,13 +22,3 @@
 
 
 
-
-
-[About Me](Aboutme.png)
-
-[Contact Me](Contactpage.png)
-
-[Projects](Portfoliopage.png)
-
-Here is the link to my website:
-[My Portfolio Website](Myhttps://tlomax111.github.io/)
